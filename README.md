@@ -1,0 +1,1 @@
+# magento-lower-password-length
