@@ -1,5 +1,5 @@
 <?php
-namespace Vendor\Module\Model\Customer\Attribute\Backend;
+namespace Baze\LowerPasswordLength;
 
 use Magento\Framework\Exception\LocalizedException;
 
