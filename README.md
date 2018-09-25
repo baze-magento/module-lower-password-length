@@ -1,5 +1,10 @@
 # magento-lower-password-length
 
+## Architecture
+Modules that require theme changes <- Core theme -> Child "skin" themes
+
+**Standalone modules** (This Repo) -> (no dependencies)
+
 ## Installation
 
 ```bash
@@ -24,4 +29,3 @@ magento maintenance:disable
 systemctl restart php7.1-fpm
 systemctl start cron
 ```
-
